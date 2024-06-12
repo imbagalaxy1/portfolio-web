@@ -2,10 +2,10 @@
 function Projects() {
 
     return(
-        <header>
+        <section id="projects">
             <h2>My Projects</h2>
             <p>//Projects here...</p>
-        </header>
+        </section>
     );
 }
 
